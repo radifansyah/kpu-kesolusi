@@ -3,3 +3,7 @@ Rencana konten kpu
 2 membuat video mengenai framework
 3 membuat video animasi untuk pembelajaran 
 4 membuat layouting laravel
+5 membuat mikrotik hostpot
+6 membuat view js laravel
+7 belajar react js
+
