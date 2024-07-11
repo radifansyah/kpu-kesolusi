@@ -2,3 +2,4 @@ Rencana konten kpu
 1 membuat video mengenai javascript
 2 membuat video mengenai framework
 3 membuat video animasi untuk pembelajaran 
+4 membuat mikrotik hostpot
